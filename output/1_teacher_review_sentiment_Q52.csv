@@ -1,0 +1,84 @@
+,Essay Text,School Year,Response ID,Category,Predicted sentiment,Probability
+0,Parent relationships and contact. I came into my first year not knowing how to conduct conferences or build relationships with parents. This is also due to COVID as well.,2022,39703,Parent Relationships,Positive,0.63
+1,How to teach ELL and gifted students,2022,39712,Training for ELL and ED Students,Positive,0.96
+2,Planning for lessons and time management.,2022,39723,Planning,Positive,0.73
+3,Lesson planning for the week,2022,39725,Planning,Positive,0.94
+4,I think there needs to be more instruction and practical practice on how to handle severe behaviors and to prepare teachers for what they will see in the general classroom and how to handle things like trauma and unmedicated ADHD.,2022,39740,Handling severe behavior,Positive,0.72
+5,"Teacher preparation programs should strengthen modeling and teaching classroom management strategies to educate teachers on potential misbehaviors, plans to prevent them, and actions to take when the misbehaviors occur.",2022,39764,Handling severe behavior,Positive,0.87
+6,Classroom management skills,2022,39800,Classroom management skills,Positive,0.94
+7,I think teacher preparation programs should focus more on classroom management and ways to teach students with different learning strengths and weaknesses. Another aspect that teacher preparation programs should strengthen is communication with administration and other school officials.,2022,39809,Classroom management skills,Positive,0.97
+8,How to really analyze data and what we need to do for certain students.,2022,39811,Training to analyze data,Negative,0.84
+9,Student behavior and discipline. My second choice would be communicating with parents (when and how).,2022,39843,Handling severe behavior,Positive,0.55
+10,different curriculums and how to use them.,2022,39849,Classroom management skills,Negative,0.57
+11,Classes on students with disabilities (physical and mental). I feel like more training in that area would have enhanced my abilities in the classroom more than now. I struggle with students who have behavioral/mental disabilities. I think another class would have made me better in the classroom.,2022,39857,Training on students with disabilities,Negative,0.82
+12,Special education practicum and learning,2022,39869,Handling severe behavior,Positive,0.75
+13,Behavioral Management,2022,39898,Handling severe behavior,Negative,0.5
+14,Organization. The most important area all teachers need to understand and do well is organize everything from lesson plans to the supplies in their classroom. It is a key that I have found eases a lot of stress.,2022,39916,Classroom management skills,Positive,0.63
+15,"Lesson planning adaptation, and behavior response.",2022,39917,Planning,Positive,0.9
+16,"Classroom management, paperwork, and other needs of being a teacher more than just teaching.",2022,39946,Classroom management skills,Negative,0.83
+17,how to work with state officials about students,2022,39969,Classroom management skills,Negative,0.68
+18,"I feel my institution did a fantastic job preparing me to be a teacher, but if there was something I wish I knew more about before becoming a teacher, it would be curriculum mapping for a longer period of time.",2022,39989,Planning,Positive,0.89
+19,"Behaviors, & Parent Relationships",2022,39990,Parent Relationships,Negative,0.5
+20,Classroom management,2022,40003,Classroom management skills,Positive,0.83
+21,Classroom management strategies,2022,40039,Classroom management skills,Positive,0.83
+22,"to not sugar coat everything, many of the classes I took painted teaching to be much different than it is. It sets students up to fail when they don't know what to truly expect when entering the work force.",2022,40042,Classroom management skills,Negative,0.85
+23,Working to differentiate for different students,2022,40047,Training for IEPS,Negative,0.58
+24,Classroom management,2022,40067,Classroom management skills,Positive,0.83
+25,Strategies to handle behaviors while keeping others engaged in the routines.,2022,40129,Handling severe behavior,Positive,0.66
+26,Behavior management,2022,40167,Handling severe behavior,Positive,0.83
+27,Classroom management,2022,40176,Classroom management skills,Positive,0.83
+28,"IEPs (how they are written, what you do in an IEP meeting, parent communication etc)",2022,40177,Training for IEPS,Negative,0.56
+29,Helping with understanding how to deal with parent conflict,2022,40189,Parent Relationships,Positive,0.71
+30,Classroom Management/ Behaviors in order to increase engagement,2022,40193,Classroom management skills,Positive,0.55
+31,Teaching how to do Special Education paper work,2022,40201,Classroom management skills,Negative,0.78
+32,How to run a small group,2022,40210,Classroom management skills,Positive,0.51
+33,Behavior management.,2022,40217,Handling severe behavior,Negative,0.5
+34,behaviors and why kids behave the way they do,2022,40219,Handling severe behavior,Positive,0.74
+35,Classroom Management Strategies,2022,40237,Classroom management skills,Negative,0.5
+36,I think teacher preparation programs need to strengthen the focus put on collaboration/communication with parents regarding improvement to the education students receive.,2022,40276,Parent Relationships,Negative,0.67
+37,Behavior Management,2022,40295,Handling severe behavior,Negative,0.5
+38,Classroom management. I wasn't prepared for the types of behavior that I'm working with. I would like to know how to help the outlyers.,2022,40304,Classroom management skills,Negative,0.92
+39,How to deal with behavior issues in low support staff schools.,2022,40353,Handling severe behavior,Negative,0.63
+40,Classroom Management,2022,40360,Classroom management skills,Negative,0.5
+41,IEP students and what it entails,2022,40394,Training for IEPS,Negative,0.5
+42,"Meaningful assessment building. Teachers need to know how to use provided curriculum programs to build and create assessments that are aligned with standards, but also encourage critical thinking; not just repetition/single response.",2022,40422,Planning,Positive,0.98
+43,IEP accommodations/SPED classes for regular education teachers.,2022,40426,Training for IEPS,Positive,0.59
+44,classroom management or parent communication,2022,40433,Handling severe behavior,Positive,0.8
+45,Teaching how to actually differentiate for different learning levels.,2022,40445,Handling severe behavior,Positive,0.58
+46,Classroom Management and Discipline,2022,40449,Classroom management skills,Negative,0.5
+47,Time Management skills of teachers.,2022,40476,Classroom management skills,Positive,0.75
+48,Classroom management/behavior management.,2022,40527,Handling severe behavior,Negative,0.5
+49,"classroom management. Providing examples, role playing, etc.. how to help a student through behaviors.",2022,40530,Classroom management skills,Positive,0.58
+50,"Content specific instruction. I learned a lot from my music teachers, but my education classes didn't know how to work with music teachers.",2022,40549,Content specific instruction,Negative,0.59
+51,"I felt like I spent a lot of my time preparing lengthy lesson plans when in reality, my lesson plans in my district are not as lengthy. I felt like the focus should have been more on implementing fun and engaging activities that aligned with our standards instead of writing detailed lesson plans that we wont use in our future classrooms.",2022,40551,Classroom management skills,Negative,0.81
+52,Working with parents.,2022,40561,Parent Relationships,Negative,0.5
+53,Benefits and insurance explanations,2022,40572,Benefits,Negative,0.63
+54,"I honestly think that being in the classroom and teaching everyday is so different to the lesson plans that we had to make and all the areas we had to touch. I think that more realistic work would be helpful. Maybe also incorporating actually teaching to a class (actual students, not peers) more often would be helpful.",2022,40579,Classroom management skills,Negative,0.94
+55,Training on curriculum,2022,40588,Training,Negative,0.5
+56,What behavior could be expected depending on the area/district of teaching,2022,40598,Classroom management skills,Negative,0.72
+57,Management,2022,40668,Classroom management skills,Negative,0.5
+58,How to help students with disabilities in side the regular classroom,2022,40690,Classroom management skills,Positive,0.91
+59,"Classroom Management, Difficult Behaviors, Communicating with Parents, IEPs",2022,40691,Classroom management skills,Negative,0.5
+60,Classroom Management,2022,40692,Classroom management skills,Negative,0.5
+61,Classroom management.,2022,40709,Classroom management skills,Negative,0.5
+62,All of it. This is a new world after covid and it's not the school system I started this career with. There have been so many changes in our world lately and teaching is not the same as it used to be. It's hard to figure out a normal school year when we will never have that normal again.,2022,40728,Classroom management skills,Positive,0.97
+63,"hands on management, more diverse teaching places",2022,40745,Classroom management skills,Negative,0.5
+64,Mentors should not be someone you student taught with. Mentors should be given more guidelines on how to assist new teachers.,2022,40769,Classroom management skills,Positive,0.91
+65,18 students all on different levels of everything. How to split students into groups. How to find out what level students are reading at.,2022,40786,Classroom management skills,Negative,0.96
+66,How to balance your school day load and your paper work. I did not feel prepared in dealing with the ins and out of paperwork. They made it very unrealistic.,2022,40930,Classroom management skills,Negative,1.0
+67,Interpreting results and implementing curriculum change based on those results,2022,40953,Classroom management skills,Positive,0.73
+68,No suggestions.,2022,40976,Classroom management skills,Negative,0.5
+69,IEP and Classroom Management. Getting students more classroom experience!!!,2022,41031,Classroom management skills,Negative,0.5
+70,effective discipline and consequences in the classroom,2022,41056,Classroom management skills,Positive,0.5
+71,From my personal experience not much time was really focused or spent on IEPs.,2022,41132,Training for IEP Students,Negative,0.93
+72,Discipline methods,2022,41133,Classroom management skills,Negative,0.5
+73,The emphasis on the book keeping and behind the scenes stuff as a teacher.,2022,41165,Classroom management skills,Negative,0.58
+74,"specialized classrooms like life skills, functional skills, and community living skills.",2022,41168,Classroom management skills,Positive,0.95
+75,Behavior,2022,41199,Handling severe behavior,Negative,0.5
+76,Differentiated instruction,2022,41202,Classroom management skills,Positive,0.75
+77,"Teacher preparation programs should strengthen their teaching on other duties that might happen outside of the classroom like parent issues, student issues, or staff issues.",2022,41234,Training,Positive,0.51
+78,Continuing to try to build relationships with students despite their behavior,2022,41598,Handling severe behavior,Positive,0.75
+79,Sequencing and lesson planning on a larger scale in a way that you really do it as a teacher.,2022,41618,Classroom management skills,Positive,0.91
+80,classroom observation of colleagues,2022,41660,Classroom management skills,Negative,0.5
+81,Talking with parents.,2022,41709,Parent Relationships,Negative,0.5
+82,classroom management,2022,41778,Classroom management skills,Positive,0.83
