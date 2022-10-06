@@ -1,2 +1,2 @@
-# FindABridge and Sentiment Analysis for Data Assistant
-A Mobile Computing App using iOS
+## Sentiment Analysis for Data Assistant
+Analysing the reviews of graduated students if the intent is positive or negative.
