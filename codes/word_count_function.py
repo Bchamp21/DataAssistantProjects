@@ -4,7 +4,7 @@ Created on Tue Oct  4 14:30:33 2022
 
 @author: tk20
 """
-
+import nltk
 from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
 sent = 'This is an example sentence for an word count exercise'
@@ -41,7 +41,7 @@ path = r'Desktop'
 
 
 
-df = pd.read_excel(r'Desktop\1_Teacher_reviews_Q51_test.xlsx')
+df = pd.read_excel(r'C:\Users\TK20\Desktop\1_Teacher_reviews_Q51_test.xlsx')
 # print (df)
 
 # print(df['Essay Text'])
@@ -58,3 +58,11 @@ for i in range(len(df)):
     
 df["row_num"] = row_n
 print(df.head(5))
+
+
+fdist = FreqDist()
+for sent in teacher_reviews:    
+    for word in word_tokenize(sent):
+        fdist[word.lower()] += 1
+    
+print(fdist.most_common(50))
