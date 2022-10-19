@@ -303,7 +303,7 @@ df = pd.read_excel(input_path_filename)
 teacher_reviews = df[review_col_name].values.tolist()
 print("Predictions for Teacher Reviews: ")
 df["Predicted sentiment"],df["Probability"] = sentiment_reviews(teacher_reviews)
-df.to_csv(os.path.join(output_path,output_filename), index=False)
+# df.to_csv(os.path.join(output_path,output_filename), index=False)
 
 fdist = FreqDist()
 for sent in teacher_reviews:    
@@ -318,9 +318,19 @@ output_filename = r'freq_dist_Q51.csv'
 df1 = pd.DataFrame(common, columns=['word', 'count'])
 print(list(df1['word'].head(10)))
 df1["Predicted sentiment"],df1["Probability"] = sentiment_reviews(list(df1['word']))
-df1.to_csv(os.path.join(output_path,output_filename), index=False)
+# df1.to_csv(os.path.join(output_path,output_filename), index=False)
 
 df_Q51 = df1
+
+
+filt1 = df[review_col_name].str.contains('needs')
+filt2 = df[review_col_name].str.contains('class')
+print(df[filt1])
+print(df[filt2])
+output_filename = r'needs_Q51.csv'
+df[filt1].to_csv(os.path.join(output_path,output_filename), index=False)
+output_filename = r'class_Q51.csv'
+df[filt2].to_csv(os.path.join(output_path,output_filename), index=False)
 
 
 print("**************************************************")
@@ -343,9 +353,6 @@ print("Predictions for Teacher Reviews: ")
 df["Predicted sentiment"],df["Probability"] = sentiment_reviews(teacher_reviews)
 print(df.head(5))
 
-df.to_csv(os.path.join(output_path,output_filename))
-
-
 
 fdist = FreqDist()
 for sent in teacher_reviews:    
@@ -360,7 +367,7 @@ output_filename = r'freq_dist_Q40.csv'
 df1 = pd.DataFrame(common, columns=['word', 'count'])
 print(list(df1['word'].head(10)))
 df1["Predicted sentiment"],df1["Probability"] = sentiment_reviews(list(df1['word']))
-df1.to_csv(os.path.join(output_path,output_filename), index=False)
+# df1.to_csv(os.path.join(output_path,output_filename), index=False)
 
 df_Q40 = df1
 
@@ -386,4 +393,14 @@ y_merged = pd.merge(y1,y2,how='inner',left_on=['word'],right_on=['word'], suffix
 
 print(y_merged)
 output_filename = r'Common_words_Q51_Q40.csv'
-y_merged.to_csv(os.path.join(output_path,output_filename), index=False)
+# y_merged.to_csv(os.path.join(output_path,output_filename), index=False)
+
+
+filt1 = df[review_col_name].str.contains('needs')
+filt2 = df[review_col_name].str.contains('class')
+print(df[filt1])
+print(df[filt2])
+output_filename = r'needs_Q40.csv'
+df[filt1].to_csv(os.path.join(output_path,output_filename), index=False)
+output_filename = r'class_Q40.csv'
+df[filt2].to_csv(os.path.join(output_path,output_filename), index=False)
